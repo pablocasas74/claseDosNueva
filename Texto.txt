@@ -3,6 +3,6 @@ Linea Testing
 Linea Master 2
 Linea Testing segunda
 Linea desde github
-Linea stas
-
-Esta es otra linea que trabajo despuÃ©s del stash2
+Linea stash1
+Linea stashyrama
+Esta es otra linea que trabajo después del stash2
