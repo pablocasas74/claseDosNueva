@@ -6,4 +6,3 @@ Linea desde github
 Linea stash1
 Linea stashyrama
 Esta es otra linea que trabajo después del stash2
-Otra linea para commit
