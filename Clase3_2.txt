@@ -1,3 +1,5 @@
 commit 1
+
 commit 2 master
 Commit 3 cherry
+Commit 4 cherry
