@@ -3,5 +3,9 @@ commit 1
 commit 2 master extra
 Commit 3 cherry extra
 Commit 4 cherry
+<<<<<<< HEAD
 
 Commit 7
+=======
+Commit 5
+>>>>>>> b2df5ae... commit 5
