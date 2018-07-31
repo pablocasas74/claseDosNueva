@@ -1,5 +1,5 @@
 commit 1
 
-commit 2 master
+commit 2 master extra
 Commit 3 cherry extra
 Commit 4 cherry
